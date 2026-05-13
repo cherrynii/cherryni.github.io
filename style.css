@@ -7,10 +7,10 @@
   --color-bg:       #0f0f0f;
   --color-surface:  #1a1a1a;
   --color-border:   #2a2a2a;
-  --color-text:     #e8dce7;
-  --color-muted:    #888;
-  --color-accent:   #c96ebd;       /* warm gold */
-  --color-accent2:  #e8dce5;
+  --color-text:     #faecf9;
+  --color-muted:    #c5afaf;
+  --color-accent:   #da98c0;       /* warm gold */
+  --color-accent2:  #e9c8e1;
 
   --font-display:  'Playfair Display', Georgia, serif;
   --font-body:     'DM Sans', sans-serif;
